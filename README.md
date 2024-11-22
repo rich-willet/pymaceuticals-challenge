@@ -1,6 +1,5 @@
 # pymaceuticals-challenge
-# Define the content of the README file
-readme_content = """
+
 # Pymaceuticals Clinical Study Analysis
 
 ## Overview
