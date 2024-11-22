@@ -27,7 +27,7 @@ The analysis covers the following key tasks:
 
 - **`mouse_metadata.csv`**: Contains metadata for each mouse, including gender and drug regimen.
 - **`study_results.csv`**: Contains tumor measurements over time for each mouse.
-- **`pymaceuticals_analysis.ipynb`**: Jupyter Notebook containing the complete analysis and visualizations.
+- **`pymaceuticals.ipynb`**: Jupyter Notebook containing the complete analysis and visualizations.
 
 ## Analysis Highlights
 
@@ -77,4 +77,4 @@ For each drug regimen, the following metrics were calculated:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pymaceuticals-analysis.git
+   git clone https://github.com/rich-willet/pymaceuticals-challenge.git
